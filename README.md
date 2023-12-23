@@ -43,4 +43,4 @@ Created a new DataFrame (hotel_df) with city, country, coordinates, and humidity
 The combined WeatherPy and VacationPy analysis provides a comprehensive exploration of weather patterns and facilitates strategic vacation planning based on personalized weather preferences. The interactive maps and data-driven insights enhance decision-making for travel enthusiasts.
 
 Computed linear regression for each relationship, stratified by Northern and Southern Hemispheres.
-Generated scatter plots with regression lines, model formulas, and r values.
+Generated scatter plots with regression lines, model formulas, and r values
